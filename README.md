@@ -1,24 +1,15 @@
-# invoker-vue-ui
+# ApiInvokerUi
 
 ## Project setup
 ```
-npm install
+npm i apiinvoker-ui
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 更新内容
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### 1.0.1发布内容
+  - 接入字体图标
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 1.0.0发布内容
+  - Button 组件
+  - Dialog 组件 
